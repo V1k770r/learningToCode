@@ -1,0 +1,14 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "learningToCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "Victor Ovalle <testprueba066@gmail.com>",
+  "license": "MIT"
+}
